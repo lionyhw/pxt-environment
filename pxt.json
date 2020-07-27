@@ -4,8 +4,7 @@
     "description": "Environment and Science IoT Kit for micro:bit",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "ESP8266_IoT": "github:elecfreaks/pxt-esp8266iot"
+        "core": "*"
     },
     "files": [
         "environment.ts",
